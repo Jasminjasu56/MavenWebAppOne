@@ -1,5 +1,10 @@
 <html>
+<head>
+<title>
+MavenSampleWebApp
+<title>
+</head>
 <body>
-<h2>Hello World welcome!</h2>
+<h2>Hello welcome to our first sample page</h2>
 </body>
 </html>
